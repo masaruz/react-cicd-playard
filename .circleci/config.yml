@@ -4,7 +4,7 @@ docker_image: &docker_image
     - image: circleci/node:8.9.1
 
 env: &env
-  FIREBASE_PROJECT_ID: react-cicd-playard
+  FIREBASE_PROJECT_ID: react-cicd-playard-31977
 
 install_and_update_dependency: &install_and_update_dependency
   name: install and update dependency
